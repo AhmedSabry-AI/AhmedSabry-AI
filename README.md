@@ -22,7 +22,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedSabry-AI.AhmedSabry-AI&"  />
 </div>
 
-###
+###<h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
+
+<p align="center">
+  <strong>Data Science Engineer 🤖 | Software Engineer 💻</strong>
 <h1 align="center">Data Scientist & AI Engineer 👨‍💻</h1>
 ## 🌟 About Me
 
@@ -50,29 +53,15 @@
      
 ###
 
-<h3 align="left">⚙️ Tech Stack</h3>
 
-###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv" /><br>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,git,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,jupyter,linux" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Data Science Journey</h3>
 
 ###
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding GIF" />
 </div>
 
-<h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
 
-<p align="center">
-  <strong>Data Science Engineer 🤖 | Software Engineer 💻</strong>
 </p>
 
 ---
