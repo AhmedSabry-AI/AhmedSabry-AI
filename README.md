@@ -28,10 +28,7 @@
   <a href="https://www.kaggle.com/ahmadsabriabdo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
   
-  <div style="flex: 0 0 auto; display: flex; justify-content: center; align-items: center; padding: 10px;">
-    <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dancing GIF" />
-  </div>
-</div>
+  
 
 <h2>🛠 Languages and Tools</h2>
 <div align="left">
@@ -50,6 +47,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
 </div>
 
+<div style="flex: 0 0 auto; display: flex; justify-content: center; align-items: center; padding: 10px;">
+    <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dancing GIF" />
+  </div>
+</div> 
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedSabry-AI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedSabry-AI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
