@@ -1,17 +1,14 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding GIF" />
 </div>
-
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedSabry-AI.AhmedSabry-AI&"  />
 </div>
 
-###<h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
-
-
+<h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
 <h1 align="center">Data Scientist & AI Engineer 👨‍💻</h1>
+
 ## 🌟 About Me
 
 - 💻 **Skills**: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning, SQL  
@@ -19,45 +16,20 @@
 - 🎯 **Goals**: Master AI & ML | Improve Teamwork & Collaboration 🤝  
 - 🎲 **Fun Fact**: I love solving real-world problems with data! 📊🔍 
 
-
 ###
 ## 📬 Connect with Me
 
 <p align="left">
   <a href="mailto:ahmed.sabry.albayya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/AhmedSabry-AI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/ahmadsabriabdo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
-###
-
-
-
-
-
-     
-###
-
-
-
 
 ###
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding GIF" />
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
-
-
-</p>
-
----
-
- 
-
----
-
-
-
----
 
 ## 🛠 Languages and Tools
 
