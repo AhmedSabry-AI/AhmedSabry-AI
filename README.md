@@ -23,28 +23,28 @@
 </div>
 
 ###
+## 🌟 About Me
 
+- 💻 **Skills**: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning, SQL  
+- 📚 **Currently Learning**: Natural Language Processing (NLP), Generative AI 🧠  
+- 🎯 **Goals**: Master AI & ML | Improve Teamwork & Collaboration 🤝  
+- 🎲 **Fun Fact**: I love solving real-world problems with data! 📊🔍 
 <h1 align="center">Data Scientist & AI Engineer 👨‍💻</h1>
 
 ###
-
-<h3 align="left">🧠  About Me</h3>
-
-###
+## 📬 Connect with Me
 
 <p align="left">
-I'm Ahmed from Egypt<br><br>
-- 🔭 Building intelligent systems with ML/DL<br>
-- 📚 Mastering Computer Vision & Transformers<br>
-- ⚡ Open-source contributor in AI space<br>
-- 🎓 AI Engineering student @ Mansoura University
+  <a href="mailto:ahmed.sabry.albayya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/ahmadsabriabdo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
-
 ###
 
-<h3 align="left">🌟 Technical Proficiency</h3>
 
-###
+
+
 
 <div align="center">
   <table>
@@ -120,23 +120,11 @@ I'm Ahmed from Egypt<br><br>
 
 ---
 
-## 🌟 About Me
-
-- 💻 **Skills**: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning, SQL  
-- 📚 **Currently Learning**: Natural Language Processing (NLP), Generative AI 🧠  
-- 🎯 **Goals**: Master AI & ML | Improve Teamwork & Collaboration 🤝  
-- 🎲 **Fun Fact**: I love solving real-world problems with data! 📊🔍  
+ 
 
 ---
 
-## 📬 Connect with Me
 
-<p align="left">
-  <a href="mailto:ahmed.sabry.albayya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/ahmadsabriabdo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-</p>
 
 ---
 
