@@ -23,13 +23,14 @@
 </div>
 
 ###
+<h1 align="center">Data Scientist & AI Engineer 👨‍💻</h1>
 ## 🌟 About Me
 
 - 💻 **Skills**: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning, SQL  
 - 📚 **Currently Learning**: Natural Language Processing (NLP), Generative AI 🧠  
 - 🎯 **Goals**: Master AI & ML | Improve Teamwork & Collaboration 🤝  
 - 🎲 **Fun Fact**: I love solving real-world problems with data! 📊🔍 
-<h1 align="center">Data Scientist & AI Engineer 👨‍💻</h1>
+
 
 ###
 ## 📬 Connect with Me
