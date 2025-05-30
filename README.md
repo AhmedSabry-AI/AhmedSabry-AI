@@ -24,8 +24,7 @@
 
 ###<h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
 
-<p align="center">
-  <strong>Data Science Engineer 🤖 | Software Engineer 💻</strong>
+
 <h1 align="center">Data Scientist & AI Engineer 👨‍💻</h1>
 ## 🌟 About Me
 
