@@ -28,8 +28,8 @@
 - 🧠 Currently learning: Transformers, BERT, GPT, LangChain  
 - 🎯 Focused on: AI, real-world applications, and continuous growth  
 - 💡 I love exploring datasets, building models, and explaining results
-- if you are interested about my skill : [https://drive.google.com/drive/u/0/recent](https://drive.google.com/drive/u/0/recent)
--
+- if you are interested about my skill : [[https://drive.google.com/drive/u/0/recent](https://drive.google.com/drive/u/0/recent)
+-](https://docs.google.com/document/d/1jNsRouFLJM0PLJWyqdox9UdwR6gLAInUGyYUzJfraII/edit?tab=t.0)
    
 
 ---
