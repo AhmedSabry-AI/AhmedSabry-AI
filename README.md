@@ -19,14 +19,7 @@
       <li>🎲 <strong>Fun Fact</strong>: I love solving real-world problems with data! 📊🔍</li>
     </ul>
     
-    <h2>📬 Connect with Me</h2>
-    <p align="left">
-      <a href="mailto:ahmed.sabry.albayya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      <a href="https://github.com/AhmedSabry-AI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://www.kaggle.com/ahmadsabriabdo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-    </p>
-  </div>
+    
   
   <div style="flex: 0 0 auto; display: flex; justify-content: center; align-items: center; padding: 10px;">
     <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dancing GIF" />
