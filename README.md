@@ -10,7 +10,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   <div style="flex: 1; min-width: 300px;">
     <h2>🌟 About Me</h2>
-    <div align="center">
+    <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedSabry-AI.AhmedSabry-AI&"  />
 </div>
     <ul>
