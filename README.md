@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
 </div>
 
-<div style="flex: 0 0 auto; display: flex; justify-content: center; align-items: right; padding: 10px;">
+<div style="flex: 0 0 auto; display: flex; justify-content: right; align-items: right; padding: 10px;">
     <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dancing GIF" />
   </div>
 </div> 
