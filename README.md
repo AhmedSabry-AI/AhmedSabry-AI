@@ -59,23 +59,7 @@ I'm Ahmed Sabry from Egypt 🇪🇬<br><br>
 
 ###
 
-<h3 align="left">📊 NLP Skill Proficiency</h3>
 
-| Skill                           | Proficiency |
-|--------------------------------|-------------|
-| Python                         | ![90%](https://progress-bar.dev/90) |
-| Text Preprocessing             | ![85%](https://progress-bar.dev/85) |
-| Tokenization & Lemmatization   | ![80%](https://progress-bar.dev/80) |
-| Sentiment Analysis             | ![75%](https://progress-bar.dev/75) |
-| Named Entity Recognition (NER) | ![70%](https://progress-bar.dev/70) |
-| Transformers & LLMs            | ![65%](https://progress-bar.dev/65) |
-| spaCy                          | ![80%](https://progress-bar.dev/80) |
-| Git & Jupyter                  | ![85%](https://progress-bar.dev/85) |
-| LangChain                      | ![60%](https://progress-bar.dev/60) |
-
-###
-
-<h3 align="left">🔥 My GitHub Stats</h3>
 
 ###
 
