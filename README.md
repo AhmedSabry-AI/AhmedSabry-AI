@@ -85,10 +85,6 @@
 
 ---
 
-## 📄 Resume
-
-📬 **Email:** ahmed.sabry.albayya@gmail.com  
-📁 **CV**: [Open Resume](file:///C:/Users/Mouse/AppData/Local/Microsoft/Windows/INetCache/IE/2CO13G8Y/Ahmed_Sabry_CV_Concise_ATS_Template_finally[1].pdf)
 
 ---
 
