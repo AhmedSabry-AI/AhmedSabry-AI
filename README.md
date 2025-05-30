@@ -42,28 +42,65 @@ I'm Ahmed from Egypt<br><br>
 
 ###
 
+<h3 align="left">🌟 Technical Proficiency</h3>
+
+###
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h4 align="center">Data Science Core</h4>
+        <div align="center">
+          <img src="https://progress-bar.dev/90/?title=Python" title="Python" />
+          <img src="https://progress-bar.dev/85/?title=NumPy/Pandas" title="NumPy/Pandas" />
+          <img src="https://progress-bar.dev/80/?title=Scikit-learn" title="Scikit-learn" />
+          <img src="https://progress-bar.dev/75/?title=Data+Visualization" title="Data Visualization" />
+        </div>
+      </td>
+      <td width="50%">
+        <h4 align="center">AI Specialties</h4>
+        <div align="center">
+          <img src="https://progress-bar.dev/85/?title=Deep+Learning" title="Deep Learning" />
+          <img src="https://progress-bar.dev/80/?title=Computer+Vision" title="Computer Vision" />
+          <img src="https://progress-bar.dev/75/?title=NLP/Transformers" title="NLP/Transformers" />
+          <img src="https://progress-bar.dev/70/?title=Reinforcement+Learning" title="Reinforcement Learning" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4 align="center">ML Frameworks</h4>
+        <div align="center">
+          <img src="https://progress-bar.dev/85/?title=TensorFlow" title="TensorFlow" />
+          <img src="https://progress-bar.dev/80/?title=PyTorch" title="PyTorch" />
+          <img src="https://progress-bar.dev/75/?title=Keras" title="Keras" />
+          <img src="https://progress-bar.dev/70/?title=OpenCV" title="OpenCV" />
+        </div>
+      </td>
+      <td width="50%">
+        <h4 align="center">DevOps & Tools</h4>
+        <div align="center">
+          <img src="https://progress-bar.dev/85/?title=Git/GitHub" title="Git/GitHub" />
+          <img src="https://progress-bar.dev/80/?title=Docker" title="Docker" />
+          <img src="https://progress-bar.dev/75/?title=SQL" title="SQL" />
+          <img src="https://progress-bar.dev/70/?title=Cloud+Platforms" title="Cloud Platforms" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
 <h3 align="left">⚙️ Tech Stack</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv" /><br>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,git,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,github,vscode,jupyter,linux" />
 </div>
 
 ###
