@@ -2,9 +2,7 @@
   <img height="200" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding GIF" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedSabry-AI.AhmedSabry-AI&"  />
-</div>
+
 
 <h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
 <h1 align="center">Data Scientist & AI Engineer 👨‍💻</h1>
@@ -12,8 +10,11 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   <div style="flex: 1; min-width: 300px;">
     <h2>🌟 About Me</h2>
+    <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedSabry-AI.AhmedSabry-AI&"  />
+</div>
     <ul>
-      <li>💻 <strong>Skills</strong>: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning, SQL</li>
+      <li>💻 <strong>Skills</strong>: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning</li>
       <li>📚 <strong>Currently Learning</strong>: Natural Language Processing (NLP), Generative AI 🧠</li>
       <li>🎯 <strong>Goals</strong>: Master AI & ML | Improve Teamwork & Collaboration 🤝</li>
       <li>🎲 <strong>Fun Fact</strong>: I love solving real-world problems with data! 📊🔍</li>
