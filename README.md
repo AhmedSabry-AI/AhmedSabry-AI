@@ -27,8 +27,10 @@
 - 🔭 I’m a Data Scientist with strong knowledge in ML, DL, and NLP  
 - 🧠 Currently learning: Transformers, BERT, GPT, LangChain  
 - 🎯 Focused on: AI, real-world applications, and continuous growth  
-- 💡 I love exploring datasets, building models, and explaining results  
-- ⚡ Fun fact: I’m a data geek... with a sense of humor 😄  
+- 💡 I love exploring datasets, building models, and explaining results
+- if you are interested about my skill : https://drive.google.com/drive/u/0/recent
+-
+   
 
 ---
 
