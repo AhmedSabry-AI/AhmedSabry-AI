@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
-<h1 align="center">Data Scientist & AI Engineer 👨‍💻</h1>
+<h1 align="center">Data Analyst & AI Engineer 👨‍💻</h1>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   <div style="flex: 1; min-width: 300px;">
