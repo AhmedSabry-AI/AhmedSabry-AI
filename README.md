@@ -1,12 +1,8 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding GIF" />
 </div>
-
-
-
 <h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
 <h1 align="center">Data Analyst & AI Engineer 👨‍💻</h1>
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   <div style="flex: 1; min-width: 300px;">
     <h2>🌟 About Me</h2>
@@ -14,22 +10,19 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedSabry-AI.AhmedSabry-AI&"  />
 </div>
     <ul>
-      <li>💻 <strong>Skills</strong>: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning</li>
+      <li>💻 <strong>Skills</strong>: Python, SQL, NumPy, Pandas, Matplotlib, Seaborn, Power BI, Excel, Web Scraping (BeautifulSoup, Selenium), Machine Learning, Deep Learning</li>
       <li>📚 <strong>Currently Learning</strong>: Natural Language Processing (NLP), Generative AI 🧠</li>
       <li>🎯 <strong>Goals</strong>: Master AI & ML | Improve Teamwork & Collaboration 🤝</li>
       <li>🎲 <strong>Fun Fact</strong>: I love solving real-world problems with data! 📊🔍</li>
     </ul>
     
    ## 📬 Connect with Me
-
 <p align="left">
   <a href="mailto:ahmed.sabry.albayya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/AhmedSabry-AI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/ahmadsabriabdo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
-  
-  
 
 <h2>🛠 Languages and Tools</h2>
 <div align="left">
@@ -43,10 +36,12 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
   <img width="10" />
-
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
 </div>
-
 <div style="flex: 0 0 auto; display: flex; justify-content: right; align-items: right; padding: 10px;">
     <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dancing GIF" />
   </div>
