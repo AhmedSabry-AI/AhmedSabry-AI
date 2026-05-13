@@ -1,26 +1,22 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding GIF" />
 </div>
-
 <h1 align="center">Hey 👋, I'm Ahmed Sabry</h1>
 <h1 align="center">Data Analyst & AI Engineer 👨‍💻</h1>
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   <div style="flex: 1; min-width: 300px;">
     <h2>🌟 About Me</h2>
     <div align="left">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedSabry-AI.AhmedSabry-AI&" />
-    </div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedSabry-AI.AhmedSabry-AI&"  />
+</div>
     <ul>
-      <li>💻 <strong>Languages</strong>: Python, SQL</li>
-      <li>📊 <strong>Data Tools</strong>: Excel, Power BI, Tableau, Power Query</li>
-      <li>🤖 <strong>AI & ML</strong>: Scikit-learn, Machine Learning, Deep Learning</li>
-      <li>🛠 <strong>Libraries</strong>: Pandas, NumPy, Matplotlib, Beautiful Soup (Web Scraping)</li>
-      <li>📚 <strong>Currently Learning</strong>: Natural Language Processing (NLP) & GenAI 🧠</li>
-      <li>🎯 <strong>Goals</strong>: Master AI & ML | Drive Business Insights through Data 🤝</li>
+      <li>💻 <strong>Skills</strong>: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning</li>
+      <li>📚 <strong>Currently Learning</strong>: Natural Language Processing (NLP), Generative AI 🧠</li>
+      <li>🎯 <strong>Goals</strong>: Master AI & ML | Improve Teamwork & Collaboration 🤝</li>
+      <li>🎲 <strong>Fun Fact</strong>: I love solving real-world problems with data! 📊🔍</li>
     </ul>
     
-     ## 📬 Connect with Me
+   ## 📬 Connect with Me
 <p align="left">
   <a href="mailto:ahmed.sabry.albayya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/AhmedSabry-AI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -51,4 +47,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedSabry-AI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedSabry-AI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AhmedSabry-AI&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
+</div>
