@@ -10,10 +10,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AhmedSabry-AI.AhmedSabry-AI&"  />
 </div>
     <ul>
-      <li>💻 <strong>Skills</strong>: Python, NumPy, Pandas, Matplotlib, Machine Learning, Deep Learning</li>
-      <li>📚 <strong>Currently Learning</strong>: Natural Language Processing (NLP), Generative AI 🧠</li>
-      <li>🎯 <strong>Goals</strong>: Master AI & ML | Improve Teamwork & Collaboration 🤝</li>
-      <li>🎲 <strong>Fun Fact</strong>: I love solving real-world problems with data! 📊🔍</li>
+      <li>💻 <strong>Languages</strong>: Python, SQL</li>
+      <li>📊 <strong>Data Tools</strong>: Excel, Power BI, Tableau, Power Query</li>
+      <li>🤖 <strong>AI & ML</strong>: Scikit-learn, Machine Learning, Deep Learning</li>
+      <li>🛠 <strong>Libraries</strong>: Pandas, NumPy, Matplotlib, Beautiful Soup (Web Scraping)</li>
+      <li>📚 <strong>Currently Learning</strong>: Natural Language Processing (NLP) & GenAI 🧠</li>
+      <li>🎯 <strong>Goals</strong>: Master AI & ML | Drive Business Insights through Data 🤝</li>
     </ul>
     
    ## 📬 Connect with Me
